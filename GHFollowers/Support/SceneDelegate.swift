@@ -44,7 +44,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
         
         UITabBar.appearance().tintColor = .systemGreen
-        
+        UINavigationBar.appearance().tintColor = .systemGreen
 
         tabbar.tabBar.backgroundColor = .secondarySystemBackground
 

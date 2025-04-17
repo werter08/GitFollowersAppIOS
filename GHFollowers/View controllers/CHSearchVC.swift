@@ -53,9 +53,11 @@ class CHSearchVC: UIViewController {
             presentCHAlertOnMainThread(title: "Empty username", message: "Please enter a username. We need to know the name to check ", buttonTitle: "OK")
             return
         }
+
         let followersList = CHFollowerListVC()
         followersList.username = searchTextField.text
         followersList.title = searchTextField.text
+        searchTextField.text = ""
         navigationController?.pushViewController(followersList, animated: true)
     }
     
