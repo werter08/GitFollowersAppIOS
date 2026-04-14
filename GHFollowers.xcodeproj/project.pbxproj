@@ -41,6 +41,7 @@
 		66C501A52DAFC53A00E37788 /* UIViewController + EXT.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C501A42DAFC53A00E37788 /* UIViewController + EXT.swift */; };
 		66C501A72DB1219E00E37788 /* CHPersictenceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C501A62DB1219E00E37788 /* CHPersictenceManager.swift */; };
 		66C501A92DB12B7400E37788 /* CHFavoriteCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C501A82DB12B7400E37788 /* CHFavoriteCell.swift */; };
+		8EB098632F8E465300899263 /* git followers video.mov in Resources */ = {isa = PBXBuildFile; fileRef = 8EB098622F8E465300899263 /* git followers video.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -80,6 +81,7 @@
 		66C501A42DAFC53A00E37788 /* UIViewController + EXT.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController + EXT.swift"; sourceTree = "<group>"; };
 		66C501A62DB1219E00E37788 /* CHPersictenceManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CHPersictenceManager.swift; sourceTree = "<group>"; };
 		66C501A82DB12B7400E37788 /* CHFavoriteCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CHFavoriteCell.swift; sourceTree = "<group>"; };
+		8EB098622F8E465300899263 /* git followers video.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "git followers video.mov"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -157,6 +159,7 @@
 		66C501602DAA88B100E37788 /* GHFollowers */ = {
 			isa = PBXGroup;
 			children = (
+				8EB098622F8E465300899263 /* git followers video.mov */,
 				66C5019F2DAFC51700E37788 /* Extension */,
 				66C501762DAAA65000E37788 /* Utilities */,
 				66C501732DAA93A000E37788 /* Managers */,
@@ -324,6 +327,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8EB098632F8E465300899263 /* git followers video.mov in Resources */,
 				66C5016B2DAA88B100E37788 /* Assets.xcassets in Resources */,
 				66C5016D2DAA88B100E37788 /* LaunchScreen.storyboard in Resources */,
 			);
