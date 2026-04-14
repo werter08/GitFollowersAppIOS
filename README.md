@@ -69,7 +69,7 @@ GHFollowers/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/GitFollowersAppIOS.git
+   git clone https://github.com/werter08/GitFollowersAppIOS.git
    ```
 2. Open `GHFollowers.xcodeproj` in Xcode.
 3. Select an iOS Simulator.
